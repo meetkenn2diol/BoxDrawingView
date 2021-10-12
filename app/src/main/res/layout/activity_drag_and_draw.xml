@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><!--You must use BoxDrawingView’s fully qualified class name so that the layout inflater can find it.-->
+<com.bignerdbranch.android.boxdrawingview.BoxDrawingView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawing_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
